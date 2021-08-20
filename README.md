@@ -6,7 +6,7 @@
 
 #### Project: Revamp mlpack bindings
 
-#### Mentor: [Ryan Curtin](https://github.com/rcurtin), [James Balamuta](https://github.com/coatless) and [Yashwant Singh](https://github.com/yashwants18)
+#### Mentor: [Ryan Curtin](https://github.com/rcurtin), [James Balamuta](https://github.com/coatless) and [Yashwant Singh](https://github.com/yashwants19)
 
 ## Abstract
 My proposal `Revamp mlpack bindings` was selected for Google Summer of Code 2021 under `mlpack`. `mlpack` is an intuitive, fast and flexible `C++` machine
